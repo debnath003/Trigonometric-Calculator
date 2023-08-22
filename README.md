@@ -1,4 +1,4 @@
-# Trigonometric-Calculator-
+# Trigonometric-Calculator
 
 This is a type of calculator where we can find out all the trigonometric values of any value of angles, in any degree! 😉 I used mostly the inbuilt "math" library in Python to fetch the values associated with the trigonometric methods, and it will show all the methods when we click on any corresponding method button.
 
